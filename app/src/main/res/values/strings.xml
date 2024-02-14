@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwoActivityApp</string>
+    <string name="main_activity_button">Увидеть число в квадрате</string>
+    <string name="square_activity_button">Вернуться на главный экран</string>
+</resources>
